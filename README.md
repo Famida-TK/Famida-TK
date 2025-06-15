@@ -16,6 +16,7 @@
 
 ## 🛠️ My MERN Stack Toolkit
 
+### Core Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -23,59 +24,36 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
+### Supporting Technologies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Project Showcase
 
-<table>
-  <tr>
-    <td align="center">
-      <b>🛍️ E-Commerce Platform (MERN)</b><br />
-      Full-featured online store with payment integration<br />
-      <a href="https://github.com/FamidaTk/shopify-clone">View on GitHub →</a>
-    </td>
-    <td align="center">
-      <b>📊 Task Management App (MERN)</b><br />
-      Real-time collaborative task board with JWT auth<br />
-      <a href="https://github.com/FamidaTk/task-manager">View Project →</a>
-    </td>
-  </tr>
-</table>
+### E-Commerce Platform (MERN)
+✔️ Product catalog with filters  
+✔️ User authentication (JWT)  
+✔️ Shopping cart functionality  
+✔️ Admin dashboard  
+
+### Task Management App (MERN)
+✔️ Real-time updates with Socket.io  
+✔️ Drag-and-drop interface  
+✔️ Team collaboration features  
+✔️ Activity logging  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Development Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FamidaTk&show_icons=true&theme=tokyonight&border_radius=10" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FamidaTk&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FamidaTk&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <b>Let's build something amazing with MERN! ⚡</b>
-</p>
+```text
+🌱 Current Focus: Building RESTful APIs with Express
+🚀 Recently Learned: React Context API
+🔜 Next Goal: Implement GraphQL in MERN stack
 
