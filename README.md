@@ -1,27 +1,43 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Famida+Tk+%F0%9F%91%8B;Fullstack+MERN+Developer+%F0%9F%92%BB;Cloud+Tech+and+Open+Source+Lover+%F0%9F%8C%90;Code+like+a+Vibe+Coder+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Famida+Tk+%F0%9F%91%8B;Fullstack+MERN+Developer+%F0%9F%92%BB;Cloud+Tech+and+Open+Source+Lover+%F0%9F%8C%90;Building+the+Web+with+MERN+Magic+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="80%" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="70%" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💻 Fullstack MERN Developer | 🎯 Passionate about building scalable cloud-native apps  
-- ⚙️ Exploring Next.js, TypeScript, AWS & CI/CD  
-- 🧠 Self-taught since high school — started with C, now mastering modern stacks  
-- 🤝 Love contributing to open-source and collaborating with amazing devs
+- 💻 Fullstack MERN Developer | 🚀 Building modern, scalable web apps  
+- 🌱 Exploring Next.js, AWS, and DevOps  
+- 🧠 Self-taught, passionate about clean code and UI/UX  
+- 🤝 Open-source contributor & team player
 
 ---
 
-## 🧰 My Tech Stack
+## 🟩🟦🟧🟩 My MERN Stack Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,postman,netlify,aws" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200" />
 </p>
 
 ---
@@ -33,13 +49,13 @@
     <td align="center">
       <img src="https://media.giphy.com/media/3o7TKRwpns23QMNNiE/giphy.gif" width="100%" />
       <br />
-      <b>🛍️ E-Commerce Platform</b><br />
+      <b>🛍️ E-Commerce Platform (MERN)</b><br />
       <a href="https://github.com/FamidaTk/shopify-clone">View on GitHub →</a>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
       <br />
-      <b>🌐 Personal Portfolio</b><br />
+      <b>🌐 Personal Portfolio (React)</b><br />
       <a href="https://github.com/FamidaTk/portfolio">View Project →</a>
     </td>
   </tr>
@@ -72,7 +88,7 @@
 
 ## ✨ Fun Fact
 
-> I started coding with curiosity and caffeine ☕, and now I architect cloud-powered apps with clean code and good vibes ⚡️
+> I code MERN stacks with a cup of coffee ☕ and a dash of creativity, turning ideas into interactive web magic! ✨
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" />
