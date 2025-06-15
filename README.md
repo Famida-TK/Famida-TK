@@ -1,10 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Famida+Tk+%F0%9F%91%8B;Fullstack+MERN+Developer+%F0%9F%92%BB;Cloud+Tech+and+Open+Source+Lover+%F0%9F%8C%90;Building+the+Web+with+MERN+Magic+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Famida+Tk+%F0%9F%91%8B;Fullstack+MERN+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,13 +8,13 @@
 ## 👩‍💻 About Me
 
 - 💻 Fullstack MERN Developer | 🚀 Building modern, scalable web apps  
-- 🌱 Exploring Next.js, AWS, and DevOps  
-- 🧠 Self-taught, passionate about clean code and UI/UX  
+- 🌱 Exploring Next.js and advanced backend architectures  
+- 🧠 Passionate about clean code and efficient database design  
 - 🤝 Open-source contributor & team player
 
 ---
 
-## 🟩🟦🟧🟩 My MERN Stack Toolbox
+## 🛠️ My MERN Stack Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -34,12 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200" />
-</p>
-
 ---
 
 ## 🚀 Highlight Projects
@@ -47,16 +37,14 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/3o7TKRwpns23QMNNiE/giphy.gif" width="100%" />
-      <br />
       <b>🛍️ E-Commerce Platform (MERN)</b><br />
+      Full-featured online store with payment integration<br />
       <a href="https://github.com/FamidaTk/shopify-clone">View on GitHub →</a>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
-      <br />
-      <b>🌐 Personal Portfolio (React)</b><br />
-      <a href="https://github.com/FamidaTk/portfolio">View Project →</a>
+      <b>📊 Task Management App (MERN)</b><br />
+      Real-time collaborative task board with JWT auth<br />
+      <a href="https://github.com/FamidaTk/task-manager">View Project →</a>
     </td>
   </tr>
 </table>
@@ -86,18 +74,8 @@
 
 ---
 
-## ✨ Fun Fact
-
-> I code MERN stacks with a cup of coffee ☕ and a dash of creativity, turning ideas into interactive web magic! ✨
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <b>⭐️ Thank you for visiting my profile! ⭐️</b>
+  <b>Let's build something amazing with MERN! ⚡</b>
 </p>
 
